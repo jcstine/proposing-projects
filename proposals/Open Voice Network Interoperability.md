@@ -1,5 +1,5 @@
 ## Project Name
-Open Voice Network Interoperability 
+Open Voice Network Interoperability Project
 
 ## Requested Project Maturity Level
 Incubation
@@ -55,20 +55,36 @@ None.
 * Emmett Coin, EJTalk (emmett@ejtalk.com), since 2022.  
 
 ## Definition of Roles: Contributor, Committer, Maintainer, etc.?
-* Not yet.
+Not yet.
 
-* Total number of contributors to the project including their affiliations at the time of submitting this proposal:
+## Total Number of Contributors to the Project Including Their Affiliations at the Time of Submitting this Proposal
+The Project currently lists 43 GitHub contributors. 
 
-* Does the project have a release methodology? Please document it in RELEASES.md. 
+## Project Release Methodology? 
+Not yet. 
 
-* Does the project have a code of conduct? If yes, please share the URL. If no, please created CODE_OF_CONDUCT.md and point to https://lfprojects.org/policies/code-of-conduct/. You can use conduct@lfai.foundation as email for contact on this topic.
+## Project Code of Conduct
+https://github.com/open-voice-network/docs/blob/main/arch-wg/code-of-conduct.md
 
-* Do you have any specific infrastructure requests needed as part of hosting the project in the LF AI?
+## Specific Infrastructure Requests: 
+* Maintenance of Open Voice Network Interoperability GitHub repository
+* Maintenance of Open Voice Network Google Workspace, for storage of outside research, meeting recordings, and collaborative development of whitepapers.
+* Completion and maintenance of the Open Voice Network Interoperability sandbox, now under construction. 
 
-* Project website - Do you have a web site? If no, did you reserve a domain, and would like you to have a website created? 
+## Project Website:  
+https://openvoicenetwork.org/interoperability-initiative/
 
-* Project governance - Do you have a working governance model for the project? Please provide URL to where it is documented, typically GOVERNANCE.md.
+## Project Governance 
+The Project to date has been governed by the Directed Fund Participation Agreement of the Open Voice Network, last amended 2021.05.13, stored here: https://github.com/open-voice-network/docs/tree/main.   
 
-* Social media accounts - Do you have any Twitter/LinkedIn/Facebook/etc. project accounts? Please provide pointers. 
+## Social Media Accounts 
+* https://www.linkedin.com/company/OpenVoiceNetwork
 
-* Existing sponsorship (e.g., whether any organization has provided funding or other support to date, and a description of that support), if any.
+## Existing Sponsorship and Support
+* Schwarz Gruppe, Platinum Sponsor
+* Microsoft Corporation, Platinum Sponsor
+* Wegmans Food Markets, Gold Sponsor
+* Veritone Corporation, Gold Sponsor
+* Sestek, Contributor
+* Kaizen Secure Voiz, Contributor
+* Adobe, Advisor and Participant
